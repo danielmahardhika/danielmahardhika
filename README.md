@@ -43,6 +43,6 @@ I love turning ideas into reality through code. You can check out some of my pro
 I'm always open to collaborations and discussions about technology. Feel free to reach out to me!
 
 * [LinkedIn](https://www.linkedin.com/in/danielsmahardhika)
-Email: danielsatriamahardhika@gmail.com
+* Email: danielsatriamahardhika@gmail.com
 
 ---
