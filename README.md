@@ -2,6 +2,6 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmahardhika&show_icons=true&locale=en&layout=compact&langs_count=5&hide=html,css,php,c,scss,jupyter%20notebook,shell,dockerfile" alt="danielmahardhika" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmahardhika&show_icons=true&locale=en&layout=compact&langs_count=5&hide=html,php,scss,jupyter%20notebook" alt="danielmahardhika" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmahardhika&" alt="danielmahardhika" /></p>
