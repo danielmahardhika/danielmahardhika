@@ -14,6 +14,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmahardhika&show_icons=true&locale=en&layout=compact&langs_count=5&hide=html,php,css,scss,jupyter%20notebook&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielmahardhika&bg_color=000000&color=a3a3a3&line=ffffff&point=ffffff&area=true&area_color=262626&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
