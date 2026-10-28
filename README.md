@@ -1,9 +1,7 @@
-<!-- Liquid Glass Wave Header -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0e,50:1c1c1e,100:2c2c2e&height=120&section=header" alt="header" />
 </p>
 
-<!-- Title, Dynamic Typing & Profile Views -->
 <div align="center">
   <h2>hi there, i'm daniel mahardhika</h2>
   <p>
@@ -16,7 +14,6 @@
 
 <br />
 
-<!-- iOS Dark Mode Dock Icons -->
 <div align="center">
   <p>
     <img src="https://skillicons.dev/icons?i=java,cs,py,js,ts&theme=dark" alt="Core Languages" />
@@ -28,13 +25,11 @@
 
 <br />
 
-<!-- Liquid Glass Streak & Top Languages Widgets -->
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmahardhika&background=135,1c1c1e,0c0c0e&border=323236&border_radius=18&stroke=2c2c2e&ring=f5f5f7&fire=ffffff&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=98989d&sideLabels=98989d&dates=636366" alt="GitHub Streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmahardhika&show_icons=true&locale=en&layout=compact&langs_count=5&hide=html,php,css,scss,jupyter%20notebook&bg_color=135,1c1c1e,0c0c0e&border_color=323236&border_radius=18&title_color=f5f5f7&text_color=98989d" alt="Top Languages" />
 </p>
 
-<!-- Liquid Glass Wave Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2e,50:1c1c1e,100:0c0c0e&height=100&section=footer" alt="footer" />
 </p>
